@@ -1,6 +1,6 @@
 <html lang="en">
   <head>
-<title>Making a cup of tea</title>
+<h1>Making a cup of tea</h1>
 </head>
   <body>
 <a><p>Tea is a hot drink that is refreshing and can also provide health benefits. There are many varieties and flavours of tea. After water, it is the most widely consumed drink worldwide.</p></a>
